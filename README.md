@@ -24,5 +24,5 @@ been used for research in the past.
 dataset link - https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
 
 <hr>
-[![Brain-tumor-detection-system](https://img.youtube.com/vi/aRhxSjTWqnw)](https://www.youtube.com/watch?v=aRhxSjTWqnw)
+[![Brain-tumor-detection-system](https://img.youtube.com/vi/fVAlhgfr-AE)](https://www.youtube.com/watch?v=fVAlhgfr-AE)
 <hr>
